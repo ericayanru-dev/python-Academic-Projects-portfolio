@@ -25,4 +25,24 @@ Clone the repository and explore each folder to run and learn from the projects:
 
 ```bash
 git clone https://github.com/ericayanru-dev/python-Academic-Projects-portfolio.git
-cd python-Academic-Projects-portfolio
+cd windchill-calculator
+python windchill_calculator.py
+
+Skills Demonstrated
+Python basics and functions
+
+Conditional logic & loops
+
+Input validation & error handling
+
+File I/O and CSV processing
+
+Modular design & code reuse
+
+Contact
+For collaboration or questions, feel free to connect:
+
+Eric Ayanru
+[LinkedIn [(https://www.linkedin.com/in/ericayanru/)]
+[Mail (ericayanru@outlook@gmail.com)]
+GitHub
